@@ -3,7 +3,7 @@
 
 
 # printing numbers from 10 to 40
-for number in range(10,41,1):   # "i" is used for iteration over elements
+for number in range(10,41,1):   # "number" is used for iteration over elements
     print(akku)
 
 # printing numbers from -10 to 20
