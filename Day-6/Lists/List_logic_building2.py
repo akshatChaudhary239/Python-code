@@ -28,7 +28,7 @@ while start<=last:
         start = mid-1
         mid = (start+last)//2
 else:
-    print("no suhc element exist")      
+    print("no such element exist")      
 
 
 # SORTING
